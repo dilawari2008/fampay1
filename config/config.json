@@ -1,0 +1,12 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "TestDB7",
+    "host": "localhost",
+    "dialect": "postgresql",
+    "port": 5432
+  }
+}
+
+
